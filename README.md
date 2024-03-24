@@ -12,7 +12,7 @@ https://github.com/xchainw/3dp-hive/releases/download/2.1/3dp-2.1_hiveos.tar.gz
 - [3DPass Website](https://3dpass.org/)
 - [3DPass Web Wallet](https://wallet.3dpass.org/)
 - [3DPass Mobile Wallet](https://3dpass.org/mobile-wallet)
-- [3pool-miner]([3poolxyz/3pool-miner-release (github.com)](https://github.com/3poolxyz/3pool-miner-release))
+- [3pool-miner](https://github.com/3poolxyz/3pool-miner-release)
 
 ## :warning: HiveOS Hardware Requirement
 *Only NVIDIA GPU compatible*
