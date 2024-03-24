@@ -1,7 +1,7 @@
 # 3DP HiveOS Miner
 This is the integration of the 3dpass(3DP, P3D) miner from [3pool-miner](https://github.com/3poolxyz/3pool-miner-release) to HiveOS.
 
-![Header](img\Header.png)
+![Header](img/Header.png)
 
 Use URL in HiveOS flight sheet:
 
@@ -19,14 +19,14 @@ https://github.com/xchainw/3dp-hive/releases/download/2.1/3dp-2.1_hiveos.tar.gz
 
 ## HiveOS Wallet Setup
 
-![Wallet Setup](img\HiveOSWalletSetup.png)
+![Wallet Setup](img/HiveOSWalletSetup.png)
 
 ## Flight Sheet Configuration
-![Flight Sheet 1](img\FlightSheet1.png)
+![Flight Sheet 1](img/FlightSheet1.png)
 
 Setup Miner Config:
 
-![Flight Sheet 2](img\FlightSheet2.png)
+![Flight Sheet 2](img/FlightSheet2.png)
 
 Extra config arguments exemple:
 
