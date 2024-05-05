@@ -5,7 +5,7 @@ This is the integration of the 3dpass(3DP, P3D) miner from [3pool-miner](https:/
 
 Use URL in HiveOS flight sheet:
 
-https://github.com/xchainw/3dp-hive/releases/download/2.2/3dp-2.2_hiveos.tar.gz
+https://github.com/xchainw/3dp-hive/releases/download/2.3/3dp-2.3_hiveos.tar.gz
 
 ## 3DP Resources
 
@@ -39,7 +39,7 @@ Extra config arguments exemple:
 ### Miner Configuration
 
 - **Miner name:** Automatically filled with the installation URL.
-- **Installation URL:** `https://github.com/xchainw/3dp-hive/releases/download/2.2/3dp-2.2_hiveos.tar.gz`
+- **Installation URL:** `https://github.com/xchainw/3dp-hive/releases/download/2.3/3dp-2.3_hiveos.tar.gz`
 - **Hash algorithm:** Not used, leave as `----`.
 - **Wallet and worker template:** Your wallet address, You can use the hiveos wallet configuration parameter:  `%WAL%`。
 - **Pool URL:** Not used, leave as `stratum+tcp://3pool.xyz:8888` or any other text.
